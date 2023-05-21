@@ -6,3 +6,5 @@ A Kaggle Research Prediction Competition.
 Here is the competition link - https://www.kaggle.com/competitions/afsis-soil-properties/overview
 
 ## The MP4 file is a 2 minutes presentation of the Project
+
+## Here is a project codes https://github.com/ezecpaul/COMP_9417_23_Project
