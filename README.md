@@ -7,4 +7,4 @@
 
 ## The MP4 files are Video presentation/demo of the Projects
 
-## Here is a project codes https://github.com/ezecpaul/COMP_9417_23_Project
+## Project codes https://github.com/ezecpaul/COMP_9417_23_Project
